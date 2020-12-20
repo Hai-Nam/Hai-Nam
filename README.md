@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src ="https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif" width="60">  <em><b>  I love connecting with different people. So, I would be glad if I get to know some :) </em>
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 Find me around the web 🌎:
-- Gmail namdzdz511@gmail.com 📹 ✍🏾
+ <p>Gmail namdzdz511@gmail.com 📹 ✍🏾</p>
 - Facebook <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
