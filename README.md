@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 
 <!--
 **Hai-Nam/Hai-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg"></code>
 
-# Find me around the web 🌎:
+### Find me around the web 🌎:
 - Gmail: namdzdz511@gmail.com 📹 ✍🏾
 - <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
 
