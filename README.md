@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎:
 - Gmail: namdzdz511@gmail.com 📹 ✍🏾
-- Facebook: <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
+- <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
 
 
