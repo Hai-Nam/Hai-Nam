@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Find me around the web 🌎:
 - Gmail namdzdz511@gmail.com 📹 ✍🏾
 - Facebook <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
-## Stack I work with
+### Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
