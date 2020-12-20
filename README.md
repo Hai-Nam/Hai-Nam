@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src ="https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif" width="60">  <em><b>  I love connecting with different people. So, I would be glad if I get to know some :) </em>
-<p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
+<center><p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p></center>
   
 ## Stack I work with:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+
 ## Find me around the web 🌎:
 - Gmail: namdzdz511@gmail.com 📹 ✍🏾
 - <a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
