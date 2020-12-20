@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 Find me around the web 🌎:
 <br><a href="namdzdz511@gmail.com">Gmail</a> 📹 ✍🏾</br>
-<a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a>
-<br><p>Stack I work with:</p></br>
+<br><a href="https://www.facebook.com/profile.php?id=100013968137720">Facebook</a> </br>
+<p>Stack I work with:</p>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
